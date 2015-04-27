@@ -1,0 +1,29 @@
+.page1 {background: rgba(60, 198, 232, .5)}
+
+.column1 { float: left; margin: 0 1.5%; width: 47%;}
+.column2 { float: right; margin: 0 1.5%; width: 47%;}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.page2 {background: rgba(60, 198, 232, .5)}
+
+.column3 { float: left; margin: 0 1.5%; width: 47%;}
+.column4 { float: right; margin: 0 1.5%; width: 47%;}
+
+.vision {
+	color: black;
+	font-size: 26px;
+}
+
+.link {
+	color: black;
+	font-size: 20px;
+}
+
+/*.gif {
+	float: right;
+	margin: 0 10%;
+}*/
